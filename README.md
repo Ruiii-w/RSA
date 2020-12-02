@@ -1,2 +1,2 @@
 # RSA
-RSA implementation on string
+RSA implementation on String type
